@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+html{
+	--txt-color-01:#BDBDBD;
+	--txt-color-02:#7C7575;
+	--txt-color-03:#DFD3D3;
+	--txt-color-04:#FBF0F0;
+
+}
+body{
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+
+#header{
+     width:100%;    
+     height: 300px;
+
+} 
+  
+.logo{
+	height:260px;
+	background-image: url('/minPJ02/images/minilogo (2).png'); 
+	background-size:contain; 
+	background-repeat: no-repeat; 
+	background-position: center; 
+}
+		
+.mine{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+
+.menuKey{
+	margin-left: 20px;
+	font-size: x-large;
+	text-decoration: none !important;
+	color: var(--txt-color-02);
+}
+
+.MyKey{
+	
+	margin-left: 20px;
+	text-decoration: none !important;
+	color: var(--txt-color-02);
+	font-size: medium;
+}
+
+
+
+
+
+
+
+
