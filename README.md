@@ -1,4 +1,4 @@
-# yiTeamProject
+# minPJ02
 jsp MVC 게시판 프로젝트
 
 ## 차례
